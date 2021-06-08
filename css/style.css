@@ -2,11 +2,18 @@ body {
   font-family: 'Nunito Sans', sans-serif;
   margin: 0;
 }
+.header,
 .container {
-  margin: 3rem auto 0;
   min-width: 288px;
   width: 70%;
   padding: 1rem;
+  margin: 0 auto;
+}
+.header {
+  margin-top: 3rem;
+  border: 1px solid purple;
+}
+.container {
   border: 1px solid #ddd;
 }
 .container h1 {
