@@ -1,3 +1,14 @@
 body {
   font-family: 'Nunito Sans', sans-serif;
+  margin: 0;
+}
+.container {
+  margin: 3rem auto 0;
+  min-width: 288px;
+  width: 70%;
+  padding: 1rem;
+  border: 1px solid #ddd;
+}
+.container h1 {
+  font-size: 1.25rem;
 }
