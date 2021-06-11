@@ -12,7 +12,6 @@ body {
 }
 .header {
   margin-top: 3rem;
-  /* border: 1px solid purple; */
   color: white;
   background-color: #4158d0;
   background-image: -webkit-linear-gradient(
@@ -53,6 +52,13 @@ body {
   font-size: 1.25rem;
 }
 @media screen and (min-width: 768px) {
+  .header {
+    display: flex;
+    align-items: center;
+  }
+  .header h1 {
+    margin-left: 2rem;
+  }
   .header span {
     display: inline;
     margin-left: 2rem;
