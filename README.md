@@ -27,3 +27,5 @@ También, hemos practicado con los siguientes comandos y sus variaciones
 - gitk
 - git rebase
 - git stash
+- git clean
+- git cherry-pick
