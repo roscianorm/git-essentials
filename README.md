@@ -25,3 +25,4 @@ También, hemos practicado con los siguientes comandos y sus variaciones
 - git remote
 - git tag
 - gitk
+- git rebase
