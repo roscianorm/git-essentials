@@ -26,3 +26,4 @@ También, hemos practicado con los siguientes comandos y sus variaciones
 - git tag
 - gitk
 - git rebase
+- git stash
